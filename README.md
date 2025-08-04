@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Happy Raksha Bandhan Didi!</title>
+  <title>Happy Rakhi!</title>
   <style>
     body {
       margin: 0;
@@ -113,7 +113,7 @@
 
   <div id="messageBox">
     <div id="messageText">
-      Dear Didi, 💌
+      Dear Sis, 💌
 
       Thank you for being my best friend, protector, and constant support.
       I’m lucky to have a sister like you. Happy Rakhi!
