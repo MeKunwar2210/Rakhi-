@@ -121,14 +121,6 @@
       Love you always! ❤️
     </div>
   </div>
-
-  <div id="gallery">
-    <h2>Our Memories 📸</h2>
-    <img src="https://via.placeholder.com/200x200?text=Photo+1" alt="Photo 1">
-    <img src="https://via.placeholder.com/200x200?text=Photo+2" alt="Photo 2">
-    <img src="https://via.placeholder.com/200x200?text=Photo+3" alt="Photo 3">
-  </div>
-
   <!-- Floating hearts -->
   <script>
     function showSurprise() {
